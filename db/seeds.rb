@@ -5,3 +5,5 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Joke.create( title: 'Tinder SAT', body: 'Yo girl! Are you the SAT? because I want to do you for 3hrs and 45 mins with breaks for snacks' )
